@@ -1,7 +1,7 @@
 // Viết chương trình in ra màn hình bảng cửu chương từ 2 đến 9.
 
 // input :
-// Output:
+// Output: In ra màn hình bảng cửu chương từ 2 đến 9
 
 #include <stdio.h>
 
